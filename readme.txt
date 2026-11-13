@@ -54,9 +54,5 @@ Laufzeittests wurden mit ClassicPress 2.7.4 und PHP 8.5.12 durchgeführt. Die An
 == ChangeLog ==
 
 = 1.0.0 =
-
-* Reset release version and update platform requirements.
-* Serialisierte Einstellungen, Options-Caches, Kommentar-Metadaten und Medien-URLs beim Kopieren korrigiert.
-* Dateikopierfehler werden gemeldet; der Blog-Kontext wird bei Ausnahmen wiederhergestellt.
-* Seitensuche mit vorbereiteten SQL-Abfragen, Eingabeprüfung und sichtbaren Fehlermeldungen; verspätete Antworten werden verworfen.
+* Erste stabile Veröffentlichung.
 

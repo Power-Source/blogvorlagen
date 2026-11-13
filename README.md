@@ -1,5 +1,13 @@
 # Neue Blog-Vorlagen
 
+**Deutsch** | [English](README.en.md)
+
+[![Version](https://img.shields.io/badge/Version-1.0.0-2271b1?style=flat-square)](readme.txt)
+![PHP](https://img.shields.io/badge/PHP-8.1%2B-777bb4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-bis%207.1.4-21759b?style=flat-square&logo=wordpress&logoColor=white)
+![ClassicPress](https://img.shields.io/badge/ClassicPress-2.7.4-03768e?style=flat-square)
+[![Lizenz](https://img.shields.io/badge/Lizenz-GPL--3.0--or--later-2ea44f?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
+
 **Neue Websites erstellen, ohne jedes Mal bei null anzufangen.**
 
 Mit Neue Blog-Vorlagen bereitest Du eine Website einmal vor und verwendest sie anschließend als Ausgangspunkt für weitere Websites in Deinem Netzwerk. So starten zum Beispiel Vereinsseiten, Projektblogs oder Schulwebsites direkt mit passenden Seiten, Beiträgen und einem einheitlichen Erscheinungsbild.
