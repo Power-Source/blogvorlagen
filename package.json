@@ -1,0 +1,22 @@
+{
+    "name": "blogtemplates",
+    "version": "1.0.0",
+    "main": "blogtemplates.php",
+    "scripts": {
+      "build": "grunt build"
+    },
+    "projectEditUrl": "https://n3rds.work/wp-admin/edit.php?post_type=project&page=projects-manage&manage_files=130",
+    "description": "",
+    "dependencies": {},
+    "devDependencies": {
+      "grunt": "^1.6.3",
+      "grunt-checktextdomain": "^1.0.1",
+      "grunt-contrib-clean": "^2.0.1",
+      "grunt-contrib-compress": "^2.0.0",
+      "grunt-contrib-copy": "^1.0.0",
+      "grunt-wp-i18n": "^1.0.4",
+      "load-grunt-tasks": "^5.1.0"
+    },
+    "author": "PSOURCE",
+    "license": "GPLv2"
+  }
